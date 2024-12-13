@@ -1,9 +1,9 @@
-import Image from "next/image";
+import Navbar from "@/Components/Navbar/Navbar";
 
 export default function Home() {
   return (
     <div>
-      <p>Saif Sultan Mizan</p>
+      <Navbar/>
     </div>
   );
 }
