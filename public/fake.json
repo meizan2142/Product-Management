@@ -1,0 +1,146 @@
+[
+    {
+        "img": "https://example.com/img1.jpg",
+        "name": "Smartphone X1",
+        "description": "A high-performance smartphone with stunning display and camera.",
+        "price": 699
+    },
+    {
+        "img": "https://example.com/img2.jpg",
+        "name": "Wireless Earbuds",
+        "description": "Noise-cancelling earbuds with crystal-clear sound quality.",
+        "price": 129
+    },
+    {
+        "img": "https://example.com/img3.jpg",
+        "name": "4K LED TV",
+        "description": "A sleek 50-inch LED TV with vibrant colors and 4K resolution.",
+        "price": 499
+    },
+    {
+        "img": "https://example.com/img4.jpg",
+        "name": "Gaming Laptop",
+        "description": "Powerful laptop for immersive gaming and multitasking.",
+        "price": 1199
+    },
+    {
+        "img": "https://example.com/img5.jpg",
+        "name": "Bluetooth Speaker",
+        "description": "Portable speaker with deep bass and long battery life.",
+        "price": 89
+    },
+    {
+        "img": "https://example.com/img6.jpg",
+        "name": "Smartwatch Pro",
+        "description": "Advanced smartwatch with fitness tracking and notifications.",
+        "price": 299
+    },
+    {
+        "img": "https://example.com/img7.jpg",
+        "name": "Kitchen Blender",
+        "description": "High-speed blender for smoothies and food prep.",
+        "price": 59
+    },
+    {
+        "img": "https://example.com/img8.jpg",
+        "name": "Electric Kettle",
+        "description": "Fast-boiling electric kettle with auto shut-off feature.",
+        "price": 35
+    },
+    {
+        "img": "https://example.com/img9.jpg",
+        "name": "Running Shoes",
+        "description": "Comfortable and durable running shoes for all terrains.",
+        "price": 75
+    },
+    {
+        "img": "https://example.com/img10.jpg",
+        "name": "Leather Wallet",
+        "description": "Stylish and durable wallet made from premium leather.",
+        "price": 49
+    },
+    {
+        "img": "https://example.com/img11.jpg",
+        "name": "Noise-Cancelling Headphones",
+        "description": "Over-ear headphones with active noise cancellation.",
+        "price": 199
+    },
+    {
+        "img": "https://example.com/img12.jpg",
+        "name": "Digital Camera",
+        "description": "Compact camera with high resolution and zoom lens.",
+        "price": 349
+    },
+    {
+        "img": "https://example.com/img13.jpg",
+        "name": "Fitness Tracker",
+        "description": "Slim fitness tracker with heart rate and sleep monitoring.",
+        "price": 99
+    },
+    {
+        "img": "https://example.com/img14.jpg",
+        "name": "Office Chair",
+        "description": "Ergonomic chair for maximum comfort during work hours.",
+        "price": 159
+    },
+    {
+        "img": "https://example.com/img15.jpg",
+        "name": "Robot Vacuum",
+        "description": "Smart vacuum cleaner with automated cleaning and scheduling.",
+        "price": 249
+    },
+    {
+        "img": "https://example.com/img16.jpg",
+        "name": "Smart Thermostat",
+        "description": "Energy-efficient thermostat with remote control via app.",
+        "price": 129
+    },
+    {
+        "img": "https://example.com/img17.jpg",
+        "name": "Desk Lamp",
+        "description": "Modern desk lamp with adjustable brightness and USB port.",
+        "price": 39
+    },
+    {
+        "img": "https://example.com/img18.jpg",
+        "name": "Electric Toothbrush",
+        "description": "Rechargeable toothbrush with multiple cleaning modes.",
+        "price": 69
+    },
+    {
+        "img": "https://example.com/img19.jpg",
+        "name": "Hiking Backpack",
+        "description": "Lightweight and durable backpack with ample storage.",
+        "price": 89
+    },
+    {
+        "img": "https://example.com/img20.jpg",
+        "name": "Coffee Maker",
+        "description": "Automatic coffee maker for a perfect brew every time.",
+        "price": 119
+    },
+    {
+        "img": "https://example.com/img21.jpg",
+        "name": "Standing Desk",
+        "description": "Adjustable standing desk for a healthier work environment.",
+        "price": 399
+    },
+    {
+        "img": "https://example.com/img22.jpg",
+        "name": "Graphic Tablet",
+        "description": "Precision tablet for artists and designers.",
+        "price": 249
+    },
+    {
+        "img": "https://example.com/img23.jpg",
+        "name": "Action Camera",
+        "description": "Rugged camera for recording adventures in high resolution.",
+        "price": 299
+    },
+    {
+        "img": "https://example.com/img24.jpg",
+        "name": "Wireless Keyboard",
+        "description": "Compact keyboard with seamless Bluetooth connectivity.",
+        "price": 59
+    }
+]
