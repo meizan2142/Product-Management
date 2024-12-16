@@ -23,7 +23,7 @@ const Navbar = () => {
                         onClick={() => setIsOpen(true)}
                     >
                         <div className="relative w-fit">
-                            <PiShoppingCartSimpleFill size={30} color=""/>
+                            <PiShoppingCartSimpleFill size={30} color="" />
                             <span className="absolute -right-1 -top-2 flex size-5 items-center justify-center rounded-md bg-red-700 text-center text-[10px] text-white">12</span>
                         </div>
                     </button>
