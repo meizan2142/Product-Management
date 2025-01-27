@@ -10,7 +10,7 @@ export default function Home() {
         <Navbar />
       </div>
       <div className="w-[1196px] mx-auto mt-20">
-        <Card />
+        {/* <Card /> */}
       </div>
       <div className="w-[1196px] mx-auto mt-20">
         <Pagination/>

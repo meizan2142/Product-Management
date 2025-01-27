@@ -63,7 +63,7 @@ const Navbar = () => {
                                             <button>-</button>
                                         </div>
                                         <div className="border border-gray-500  border-t-0  border-b-0 px-3 py-1 text-sm">
-                                            <button>2</button>
+                                            2
                                         </div>
                                         <div className="border border-gray-500 border-t-0 border-l-0 border-r-0 border-b-0 px-1 py-1 text-sm">
                                             <button>+</button>
